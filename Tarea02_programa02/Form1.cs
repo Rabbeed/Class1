@@ -51,12 +51,12 @@ namespace Tarea02_programa02
 
                 if (cbCham.Checked)
                 {
-                    imprimir += "Extra Queso\r\n";
+                    imprimir += "Champiñones\r\n";
                 }
 
                 if (cbExtrQ.Checked)
                 {
-                    imprimir += "Champiñones\r\n";
+                    imprimir += "Extra Queso\r\n";
                 }
 
                 if (cbClavo.Checked)
