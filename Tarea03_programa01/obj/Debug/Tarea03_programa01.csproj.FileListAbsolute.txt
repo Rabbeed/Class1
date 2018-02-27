@@ -1,0 +1,10 @@
+C:\Users\Rabbeed\source\repos\Class1\Tarea03_programa01\obj\Debug\Tarea03_programa01.csprojResolveAssemblyReference.cache
+C:\Users\Rabbeed\source\repos\Class1\Tarea03_programa01\obj\Debug\Tarea03_programa01.Properties.Resources.resources
+C:\Users\Rabbeed\source\repos\Class1\Tarea03_programa01\obj\Debug\Tarea03_programa01.csproj.GenerateResource.Cache
+C:\Users\Rabbeed\source\repos\Class1\Tarea03_programa01\obj\Debug\Tarea03_programa01.csproj.CoreCompileInputs.cache
+C:\Users\Rabbeed\source\repos\Class1\Tarea03_programa01\bin\Debug\Tarea03_programa01.exe.config
+C:\Users\Rabbeed\source\repos\Class1\Tarea03_programa01\bin\Debug\Tarea03_programa01.exe
+C:\Users\Rabbeed\source\repos\Class1\Tarea03_programa01\bin\Debug\Tarea03_programa01.pdb
+C:\Users\Rabbeed\source\repos\Class1\Tarea03_programa01\obj\Debug\Tarea03_programa01.exe
+C:\Users\Rabbeed\source\repos\Class1\Tarea03_programa01\obj\Debug\Tarea03_programa01.pdb
+C:\Users\Rabbeed\source\repos\Class1\Tarea03_programa01\obj\Debug\Tarea03_programa01.programa01.resources
