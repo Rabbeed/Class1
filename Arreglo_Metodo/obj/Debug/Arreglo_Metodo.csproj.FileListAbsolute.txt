@@ -1,0 +1,7 @@
+C:\Users\Rabbeed\source\repos\Class1\Arreglo_Metodo\obj\Debug\Arreglo_Metodo.csprojResolveAssemblyReference.cache
+C:\Users\Rabbeed\source\repos\Class1\Arreglo_Metodo\obj\Debug\Arreglo_Metodo.csproj.CoreCompileInputs.cache
+C:\Users\Rabbeed\source\repos\Class1\Arreglo_Metodo\bin\Debug\Arreglo_Metodo.exe.config
+C:\Users\Rabbeed\source\repos\Class1\Arreglo_Metodo\bin\Debug\Arreglo_Metodo.exe
+C:\Users\Rabbeed\source\repos\Class1\Arreglo_Metodo\bin\Debug\Arreglo_Metodo.pdb
+C:\Users\Rabbeed\source\repos\Class1\Arreglo_Metodo\obj\Debug\Arreglo_Metodo.exe
+C:\Users\Rabbeed\source\repos\Class1\Arreglo_Metodo\obj\Debug\Arreglo_Metodo.pdb

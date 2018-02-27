@@ -1,0 +1,6 @@
+C:\Users\Rabbeed\source\repos\Class1\ArregloDoble\bin\Debug\ArregloDoble.exe.config
+C:\Users\Rabbeed\source\repos\Class1\ArregloDoble\bin\Debug\ArregloDoble.exe
+C:\Users\Rabbeed\source\repos\Class1\ArregloDoble\bin\Debug\ArregloDoble.pdb
+C:\Users\Rabbeed\source\repos\Class1\ArregloDoble\obj\Debug\ArregloDoble.csproj.CoreCompileInputs.cache
+C:\Users\Rabbeed\source\repos\Class1\ArregloDoble\obj\Debug\ArregloDoble.exe
+C:\Users\Rabbeed\source\repos\Class1\ArregloDoble\obj\Debug\ArregloDoble.pdb

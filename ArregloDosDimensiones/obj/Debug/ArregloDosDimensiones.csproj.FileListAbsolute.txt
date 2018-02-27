@@ -1,0 +1,6 @@
+C:\Users\Rabbeed\source\repos\Class1\ArregloDosDimensiones\bin\Debug\ArregloDosDimensiones.exe.config
+C:\Users\Rabbeed\source\repos\Class1\ArregloDosDimensiones\bin\Debug\ArregloDosDimensiones.exe
+C:\Users\Rabbeed\source\repos\Class1\ArregloDosDimensiones\bin\Debug\ArregloDosDimensiones.pdb
+C:\Users\Rabbeed\source\repos\Class1\ArregloDosDimensiones\obj\Debug\ArregloDosDimensiones.csproj.CoreCompileInputs.cache
+C:\Users\Rabbeed\source\repos\Class1\ArregloDosDimensiones\obj\Debug\ArregloDosDimensiones.exe
+C:\Users\Rabbeed\source\repos\Class1\ArregloDosDimensiones\obj\Debug\ArregloDosDimensiones.pdb

@@ -1,0 +1,10 @@
+C:\Users\Rabbeed\source\repos\Class1\Arreglos_02\bin\Debug\Arreglos_02.exe.config
+C:\Users\Rabbeed\source\repos\Class1\Arreglos_02\bin\Debug\Arreglos_02.exe
+C:\Users\Rabbeed\source\repos\Class1\Arreglos_02\bin\Debug\Arreglos_02.pdb
+C:\Users\Rabbeed\source\repos\Class1\Arreglos_02\obj\Debug\Arreglos_02.csprojResolveAssemblyReference.cache
+C:\Users\Rabbeed\source\repos\Class1\Arreglos_02\obj\Debug\Arreglos_02.Form1.resources
+C:\Users\Rabbeed\source\repos\Class1\Arreglos_02\obj\Debug\Arreglos_02.Properties.Resources.resources
+C:\Users\Rabbeed\source\repos\Class1\Arreglos_02\obj\Debug\Arreglos_02.csproj.GenerateResource.Cache
+C:\Users\Rabbeed\source\repos\Class1\Arreglos_02\obj\Debug\Arreglos_02.csproj.CoreCompileInputs.cache
+C:\Users\Rabbeed\source\repos\Class1\Arreglos_02\obj\Debug\Arreglos_02.exe
+C:\Users\Rabbeed\source\repos\Class1\Arreglos_02\obj\Debug\Arreglos_02.pdb
