@@ -41,12 +41,12 @@ namespace tarea03_programa06
 
         public static void Multiplicacion()
         {
-
-             for(int k = arregloB.Length - 1; k >= 0; k--)
-                for(int i = 0; i < arregloB.Length; i++)
-                    for (int j = 0; j < arregloB.Length; j++)
-                        arregloC[i] = arregloA[k] * arregloB[j];
-
+            int temp = arregloB.Length - 1;
+                
+            for(int i = 0; i < arregloA.Length; i++)
+            {
+                arregloC[i] = arregloA[i] * (arregloB[temp - i]);
+            }
 
         }
 
