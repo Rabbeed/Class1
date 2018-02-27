@@ -1,0 +1,7 @@
+C:\Users\Rabbeed\source\repos\Class1\tarea03_programa06\bin\Debug\tarea03_programa06.exe.config
+C:\Users\Rabbeed\source\repos\Class1\tarea03_programa06\bin\Debug\tarea03_programa06.exe
+C:\Users\Rabbeed\source\repos\Class1\tarea03_programa06\bin\Debug\tarea03_programa06.pdb
+C:\Users\Rabbeed\source\repos\Class1\tarea03_programa06\obj\Debug\tarea03_programa06.csprojResolveAssemblyReference.cache
+C:\Users\Rabbeed\source\repos\Class1\tarea03_programa06\obj\Debug\tarea03_programa06.csproj.CoreCompileInputs.cache
+C:\Users\Rabbeed\source\repos\Class1\tarea03_programa06\obj\Debug\tarea03_programa06.exe
+C:\Users\Rabbeed\source\repos\Class1\tarea03_programa06\obj\Debug\tarea03_programa06.pdb

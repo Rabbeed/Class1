@@ -1,0 +1,9 @@
+C:\Users\Rabbeed\source\repos\Class1\Tarea03_programa04\bin\Debug\Tarea03_programa04.exe.config
+C:\Users\Rabbeed\source\repos\Class1\Tarea03_programa04\bin\Debug\Tarea03_programa04.exe
+C:\Users\Rabbeed\source\repos\Class1\Tarea03_programa04\bin\Debug\Tarea03_programa04.pdb
+C:\Users\Rabbeed\source\repos\Class1\Tarea03_programa04\obj\Debug\Tarea03_programa04.Form1.resources
+C:\Users\Rabbeed\source\repos\Class1\Tarea03_programa04\obj\Debug\Tarea03_programa04.Properties.Resources.resources
+C:\Users\Rabbeed\source\repos\Class1\Tarea03_programa04\obj\Debug\Tarea03_programa04.csproj.GenerateResource.Cache
+C:\Users\Rabbeed\source\repos\Class1\Tarea03_programa04\obj\Debug\Tarea03_programa04.csproj.CoreCompileInputs.cache
+C:\Users\Rabbeed\source\repos\Class1\Tarea03_programa04\obj\Debug\Tarea03_programa04.exe
+C:\Users\Rabbeed\source\repos\Class1\Tarea03_programa04\obj\Debug\Tarea03_programa04.pdb
