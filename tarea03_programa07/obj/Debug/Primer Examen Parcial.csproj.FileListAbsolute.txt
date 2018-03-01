@@ -1,0 +1,10 @@
+C:\Users\Rabbeed\source\repos\Class1\Primer Examen Parcial\bin\Debug\Primer Examen Parcial.exe.config
+C:\Users\Rabbeed\source\repos\Class1\Primer Examen Parcial\bin\Debug\Primer Examen Parcial.exe
+C:\Users\Rabbeed\source\repos\Class1\Primer Examen Parcial\bin\Debug\Primer Examen Parcial.pdb
+C:\Users\Rabbeed\source\repos\Class1\Primer Examen Parcial\obj\Debug\Primer_Examen_Parcial.Form1.resources
+C:\Users\Rabbeed\source\repos\Class1\Primer Examen Parcial\obj\Debug\Primer_Examen_Parcial.Properties.Resources.resources
+C:\Users\Rabbeed\source\repos\Class1\Primer Examen Parcial\obj\Debug\Primer Examen Parcial.csproj.GenerateResource.Cache
+C:\Users\Rabbeed\source\repos\Class1\Primer Examen Parcial\obj\Debug\Primer Examen Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Rabbeed\source\repos\Class1\Primer Examen Parcial\obj\Debug\Primer Examen Parcial.exe
+C:\Users\Rabbeed\source\repos\Class1\Primer Examen Parcial\obj\Debug\Primer Examen Parcial.pdb
+C:\Users\Rabbeed\source\repos\Class1\Primer Examen Parcial\obj\Debug\Primer Examen Parcial.csprojResolveAssemblyReference.cache
